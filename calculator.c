@@ -21,3 +21,6 @@ int main() {
             case 'S':
             printf("%.2lf - %.2lf = %.2lf\n", num1, num2, num1 - num2);
             break;
+            case 'M':
+            printf("%.2lf * %.2lf = %.2lf\n", num1, num2, num1 * num2);
+            break;
